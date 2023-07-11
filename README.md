@@ -1,6 +1,6 @@
 # ⚽ Projeto Moda fut
 
-![preview.png](./.github/preview.jpg)
+![preview.png](/img/preview.jpg)
 
 
 > Fiz esse site em 2022, na cadeira de Desenvolvimento Web da faculdade, onde o objetivo era criar um site usando HTML, CSS e JS como nota final da materia.
@@ -8,7 +8,7 @@ Como estava perto da Copa do Mundo, resolvi fazer uma loja virtual de camisa e a
 Não coloquei o site pra frente, nem vendi nada nele, mas quem sabe no futuro.. rsrs.
 Deixei somente o Reposítorio aqui ;)
 
-[🔗Clique aqui pra acessar](https://douglasffjw.github.io/ModaFut/)
+[🔗Clique aqui pra acessar](https://ryanverissimo.github.io/ModaFut/)
 
 ## 🛠 Tecnologias
 
@@ -19,8 +19,8 @@ Deixei somente o Reposítorio aqui ;)
 
 # 📞Contato
  
-> Email: douglasfernandesti@gmail.com
+> Email: ryanvm.black@gmail.com
 
-> Whatsapp: 85 989712043 
+> Whatsapp: (85( 997794006))
 
-> Insta: @_dougl4z
+> Insta: @ryanveris
